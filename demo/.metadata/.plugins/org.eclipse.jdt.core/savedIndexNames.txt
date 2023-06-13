@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+C:\new software\eclipse\Shukranti\demo\.metadata\.plugins\org.eclipse.jdt.core
+319104151.index
+1755401707.index
+3924584693.index
+1828026965.index
